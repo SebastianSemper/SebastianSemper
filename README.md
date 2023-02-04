@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebastianSemper
-- 👀 I’m interested in statistical signal processing, compressed sensing, sparse signal and game development
+- 👀 I’m interested in statistical signal processing, compressed sensing, sparse signals and game development
 - 🌱 I’m currently learning godot
 
 <!---
